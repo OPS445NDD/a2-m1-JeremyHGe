@@ -3,9 +3,9 @@
 '''
 OPS445 Assignment 2 - Winter 2023
 Program: assignment2.py 
-Author: "Student Name"
+Author: Jeremy Hernandez
 The python code in this file is original work written by
-"Student Name". No code in this file is copied from any other source 
+Jeremy Hernandez. No code in this file is copied from any other source 
 except those provided by the course instructor, including any person, 
 textbook, or on-line resource. I have not shared this python script 
 with anyone or anything except for submission for grading.  
